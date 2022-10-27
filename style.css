@@ -1,0 +1,43 @@
+header{
+	width: 50%;
+	height: 125px;
+	background-color: lightblue;
+}
+
+
+nav {
+	width: 25%;
+	height: 62px;
+	background-color: blue;
+	margin: 0 auto;
+
+}
+
+
+section {
+	width: 50%;
+	height: 225px;
+	background-color: lime;
+
+}
+
+
+section {
+	width: 50%;
+	height: 225px;
+	background-color: lime;
+
+}
+
+
+footer{
+	width: 50%;
+	height: 75px;
+	background-color: lightpink;
+
+}
+
+
+
+
+
